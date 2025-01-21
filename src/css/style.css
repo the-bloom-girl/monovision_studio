@@ -69,7 +69,7 @@ html {
 
     @media screen and (max-width:768px) {
         & {
-            background-image: url('../img/tablet.jpg');
+            background-image: url('../img/tablet.jpg')center center / cover no-repeat;
             background-position-x: 80%
         }
     }
