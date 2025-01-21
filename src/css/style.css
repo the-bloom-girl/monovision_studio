@@ -500,7 +500,6 @@ html {
     }
 
     span::after {
-
         content: "";
         display: block;
         width: 75px;
