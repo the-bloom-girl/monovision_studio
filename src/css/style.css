@@ -63,10 +63,9 @@ html {
 .promo {
     position: relative;
     min-height: 100vh;
-    background: url('../img/main_bg.jpg');
+    background: url('../img/main_bg.jpg')center center / cover no-repeat;
     padding-top: 75px;
     color: var(--light-color);
-
 
     @media screen and (max-width:768px) {
         & {
