@@ -214,7 +214,6 @@ html {
     bottom: 0;
     padding: 0 360px;
     width: 92%;
-    /* (від батька .promo) */
     height: 20px;
     background-color:
         linear-gradient (180.00deg,
@@ -307,7 +306,7 @@ html {
 
     @media screen and (max-width:1440px) {
         & {
-            width: 92%;
+            width: 90%;
         }
     }
 
